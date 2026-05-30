@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"D:\\\\github_project\\\\mall\\\\mall_web\" /b)",
+      "Bash(dir \"D:\\\\github_project\\\\mall\\\\mall_web\\\\src\" /s /b)",
+      "Bash(dir \"D:\\\\github_project\\\\mall\\\\mall_web\\\\docs\" /s /b)",
+      "Bash(echo \"exit: $?\")"
+    ]
+  }
+}
