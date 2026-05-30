@@ -48,6 +48,10 @@ lerna-debug.log*
 *.sublime-project
 *.sublime-workspace
 
+# project-specific
+.claude/
+docs/
+
 # misc
 .cache/
 *.tmp

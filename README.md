@@ -12,8 +12,20 @@
 
 </div>
 
+🔗 **后端仓库：[mall_server](https://github.com/yaocat55/mall_server)**
+
 ---
 
+
+## 📸 效果预览
+
+<div align="center">
+
+![仪表盘](image/仪表盘.png)
+
+![登录](image/登录图.png)
+
+</div>
 
 ## 🏪 业务简介
 

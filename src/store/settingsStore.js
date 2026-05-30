@@ -8,7 +8,7 @@ const useSettingsStore = create((set) => ({
   sidebarLogo: true,
   showSettings: false,
   showFooter: true,
-  footerTxt: '©2024 Java突击队 <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License 2.0</a>',
+  footerTxt: '©2024 B2C商城后台管理系统 <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License 2.0</a>',
   caseNumber: '',
   theme: Cookies.get('theme') || '',
 
